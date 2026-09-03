@@ -9,6 +9,7 @@ A complete collection of lecture presentations, notes, source code, and teaching
 | **01** | Introduction to C Programming | [🌐 Website](https://ajaydabade.com/category/c-programming/) · [📂 Lecture 01](01-Introduction-to-C/) |
 | **02** | The Structure of a C Program | [🌐 Website](https://ajaydabade.com/%f0%9f%a7%b1-the-structure-of-a-c-program-building-your-first-blueprint/) · [📂 Lecture 02](02-Structure-of-a-C-Program/) |
 | **03** | Identifiers, Keywords, and Variables | [🌐 Website](https://ajaydabade.com/identifiers-keywords-and-variables-naming-things-in-c-programming/) · [📂 Lecture 03](03-Identifiers-Keywords-and-Variables/) |
+| **04** | Data Types in C | [🌐 Website](https://ajaydabade.com/data-types-in-c-choosing-the-right-box-for-every-value/) · [📂 Lecture 04](04-Data-Types-in-C/) |
 
 ## 🎯 About This Repository
 
